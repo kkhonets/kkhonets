@@ -10,9 +10,6 @@
   - Skilled in cloud platforms like AWS and Google Cloud.
   - Experienced with databases such as MySQL.
   - Familiar with tools and technologies like Docker and Git.
-- **Projects**:
-  - Developed an open-source library for data visualization.
-  - Contributed to various projects involving artificial intelligence and automation.\
 <!--
 **kkhonets/kkhonets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
