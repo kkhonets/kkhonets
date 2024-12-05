@@ -10,6 +10,13 @@
   - Skilled in cloud platforms like AWS and Google Cloud.
   - Experienced with databases such as MySQL.
   - Familiar with tools and technologies like Docker and Git.
+
+## Some Projects
+- Personal Website (https://kkhonets.github.io/)
+  ![Screenshot 2024-12-05 120922](https://github.com/user-attachments/assets/4fbc74a5-ee21-42f5-954c-66de2a294338)
+
+
+
 <!--
 **kkhonets/kkhonets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
