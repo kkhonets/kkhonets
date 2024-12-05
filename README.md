@@ -11,12 +11,18 @@
   - Experienced with databases such as MySQL.
   - Familiar with tools and technologies like Docker and Git.
 
-## Some Projects
+## Projects
 ### Personal Website (https://kkhonets.github.io/)
   - Interactive background (https://vincentgarreau.com/particles.js/)
   - Background color subtly changes to a dark pink color using animated gradients with different blend modes
   - Built using React with Babel for interpretation
 ![image](https://github.com/user-attachments/assets/0e5c64cb-b30a-49bb-8a14-0b7c25dbe9e0)
+### Search Component and Algorithm
+  - Material styling
+![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
+  - Gets user input, ensuring it's not empty
+  - Generates combinations of terms, matches them against article titles and content, and calculates relevance scores
+  - Renders a list of articles in order of relevance, with previews showing matched content
 
 
 
