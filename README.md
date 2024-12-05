@@ -1,7 +1,7 @@
 # Hi there 👋 I'm kkhonets.
 
 ## About Me
-- **Background**: Software developer with a strong foundation in computer science and several years of experience in the tech industry.
+- **Background**: Programmer with a bachelor's and associate's in computer science
 - **Expertise**:
   - Proficient in Java, Python, PHP, JavaScript, SQL, HTML, Batch Script, and CSS.
   - Experienced in web development using Django, Node.js, React, and Bootstrap.
