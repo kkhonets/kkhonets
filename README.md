@@ -15,7 +15,7 @@
 - Personal Website (https://kkhonets.github.io/)
   - Interactive background (https://vincentgarreau.com/particles.js/)
   - Background color complex moving gradients with different blend modes
-  ![Screenshot 2024-12-05 120922](https://github.com/user-attachments/assets/4fbc74a5-ee21-42f5-954c-66de2a294338)
+![Screenshot 2024-12-05 120922](https://github.com/user-attachments/assets/4fbc74a5-ee21-42f5-954c-66de2a294338)
 
 
 
