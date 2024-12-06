@@ -16,6 +16,7 @@
   - Interactive background (https://vincentgarreau.com/particles.js/)
   - Background color subtly changes to a dark pink color using animated gradients with different blend modes
   - Built using React with Babel for interpretation;=
+  - Written in HTML/CSS/JS
 
 ![image](https://github.com/user-attachments/assets/0e5c64cb-b30a-49bb-8a14-0b7c25dbe9e0)
 ### Search Component and Algorithm
@@ -23,12 +24,14 @@
   - Gets user input, ensuring it's not empty
   - Generates combinations of terms, matches them against article titles and content, and calculates relevance scores
   - Renders a list of articles in order of relevance, with previews showing matched content
+  - Written in HTML/CSS/JS/Python using Django
 
 ![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
 ![image](https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9)
 
 ### TPC-C Benchmark on Different Cloud Services
 - This was a school project to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through the cloud provider using the TPC-C framework
+- Written in PHP/HTML/CSS
 
 AWS EC2 Instance
 
@@ -49,6 +52,8 @@ MySQL on RDS
 Results 
 
 ![Result Screenshot](https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126)
+
+
 
 
 
