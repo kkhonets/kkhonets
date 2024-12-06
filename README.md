@@ -29,6 +29,21 @@
 ![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
 ![image](https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9)
 
+### Caesar Cipher Cryptographic System
+System UML Diagram
+
+![Screenshot 2024-12-06 125307](https://github.com/user-attachments/assets/12de9380-d3ee-43e6-a7f9-aa70ba7c9138)
+
+![Screenshot 2024-12-06 125317](https://github.com/user-attachments/assets/389f3755-d831-4898-b76f-73fee87e23f0)
+
+![Screenshot 2024-12-06 125322](https://github.com/user-attachments/assets/871a5042-fd94-4840-a679-c5790628501d)
+
+![Screenshot 2024-12-06 125329](https://github.com/user-attachments/assets/e7ce8c61-a086-46a5-aef9-bb5a345ca5a5)
+
+![Screenshot 2024-12-06 125347](https://github.com/user-attachments/assets/67582c80-304c-45ed-a25f-c0e07c5440ea)
+
+![Screenshot 2024-12-06 125354](https://github.com/user-attachments/assets/35f9a287-3127-40f9-9e42-f94296d3f674)
+
 ### Mock Learning Management System (Acastat)
 System UML Diagram
 
@@ -38,12 +53,21 @@ Screenshots
 
 ![Screenshot 2024-05-20 162447](https://github.com/user-attachments/assets/7aad6195-a017-406d-98ab-7e64615f5bb7)
 
+![Screenshot 2024-05-20 163011](https://github.com/user-attachments/assets/e75ab410-1061-4f02-8168-f29c4bd70e5c)
+
 ![Screenshot 2024-05-20 162524](https://github.com/user-attachments/assets/73ac25fc-479d-4f04-bf4f-23141c78dbcf)
 
 ![Screenshot 2024-05-20 162602](https://github.com/user-attachments/assets/88e19c0e-1dd2-45a7-a252-92fd6c2be86a)
 
 ![Screenshot 2024-05-20 162931](https://github.com/user-attachments/assets/6dc98786-477b-44aa-b76b-c3c3d8aad52c)
 
+### Mock Allowance Management System
+
+![Screenshot 2024-12-06 124547](https://github.com/user-attachments/assets/5fe5812a-6acd-4065-ba8f-dc86664ed06e)
+
+![Screenshot 2024-12-06 124710](https://github.com/user-attachments/assets/979590c5-7050-4484-84b9-c9d2ebca3ff8)
+
+![Screenshot 2024-12-06 124723](https://github.com/user-attachments/assets/b131f3da-2ffa-435d-9233-8e6fbaa4bffa)
 
 ### TPC-C Benchmark on Different Cloud Services
 - This was a school project to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through the cloud provider using the TPC-C framework
