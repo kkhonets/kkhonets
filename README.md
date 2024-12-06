@@ -65,11 +65,11 @@ Screenshots
 
 - Built in Microsoft Power Apps
 
-<img src="https://github.com/user-attachments/assets/8f3dea0f-4e43-4367-a722-605e634655cc" width="800rem">
+<img src="https://github.com/user-attachments/assets/8f3dea0f-4e43-4367-a722-605e634655cc" width="700rem">
 
-<img src="https://github.com/user-attachments/assets/77cf32c4-0c0e-4699-a1ba-7a953ae17626" width="800rem">
+<img src="https://github.com/user-attachments/assets/77cf32c4-0c0e-4699-a1ba-7a953ae17626" width="700rem">
 
-<img src="https://github.com/user-attachments/assets/0f1db6e4-2f5e-4500-8410-476e6eacdc3f" width="800rem">
+<img src="https://github.com/user-attachments/assets/0f1db6e4-2f5e-4500-8410-476e6eacdc3f" width="700rem">
 
 ### Mock Allowance Management System
 
