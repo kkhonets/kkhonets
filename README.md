@@ -28,7 +28,17 @@
 ![image](https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9)
 
 ### TPC-C Benchmark on Different Cloud Services
-- This was a school project to basically see how fast different cloud services are when using a virtual computer and virtual server through them
+- This was a school project to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through the cloud provider
+
+AWS EC2
+
+![AWS EC2 Web Server Screenshot](https://github.com/user-attachments/assets/c88594e9-1837-4aa3-81de-cfef353b2cdb)
+
+AWS RDS
+
+![AWS RDS Database Screenshot](https://github.com/user-attachments/assets/b1a44b17-2af2-489d-9e93-22ac2e8e260b)
+
+
 
 ![Result Screenshot](https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126)
 
