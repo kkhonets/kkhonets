@@ -1,4 +1,6 @@
-# Hi there 👋 I'm kkhonets. ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets&show_icons=true&theme=transparent)
+# Hi there 👋 I'm kkhonets.
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets&show_icons=true&theme=transparent)
 
 ## About Me
 - **Background**: I'm a programmer with a Bachelor's and Associate's degree in Computer Science.
