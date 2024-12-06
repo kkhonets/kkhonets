@@ -47,7 +47,7 @@ System UML Diagram
 ### Mock Learning Management System (Acastat)
 System UML Diagram
 
-<img src="https://github.com/user-attachments/assets/a3e150e2-267c-45a8-8982-32023d196429" width="800rem">
+<img src="https://github.com/user-attachments/assets/a3e150e2-267c-45a8-8982-32023d196429" width="400rem">
 
 Screenshots
 
