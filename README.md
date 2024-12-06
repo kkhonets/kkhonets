@@ -25,6 +25,8 @@
   - Renders a list of articles in order of relevance, with previews showing matched content
 
 ![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
+![image](https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9)
+
 
 
 
