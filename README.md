@@ -37,7 +37,7 @@ AWS EC2 Instance
 
 ![AWS EC2 Web Server Screenshot](https://github.com/user-attachments/assets/c88594e9-1837-4aa3-81de-cfef353b2cdb)
 
-EC2 Configuration Using XAMPP on Windows
+EC2 Configuration on Windows Using XAMPP 
 
 ![AWS EC2 Web Server RDP](https://github.com/user-attachments/assets/557cd25a-9fb2-4fa7-8062-35e6d747bada)
 
