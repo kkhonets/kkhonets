@@ -61,6 +61,16 @@ Screenshots
 
 ![Screenshot 2024-05-20 162931](https://github.com/user-attachments/assets/6dc98786-477b-44aa-b76b-c3c3d8aad52c)
 
+### Log App
+
+- Built in Microsoft Power Apps
+
+![Main Screen 1](https://github.com/user-attachments/assets/8f3dea0f-4e43-4367-a722-605e634655cc)
+
+![Main Screen 3](https://github.com/user-attachments/assets/77cf32c4-0c0e-4699-a1ba-7a953ae17626)
+
+![Main Screen 2](https://github.com/user-attachments/assets/0f1db6e4-2f5e-4500-8410-476e6eacdc3f)
+
 ### Mock Allowance Management System
 
 ![Screenshot 2024-12-06 124547](https://github.com/user-attachments/assets/5fe5812a-6acd-4065-ba8f-dc86664ed06e)
