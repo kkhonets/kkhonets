@@ -1,4 +1,4 @@
-# Hi there 👋 I'm kkhonets.
+# Hi there 👋 I'm kkhonets. ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets&show_icons=true&theme=transparent)
 
 ## About Me
 - **Background**: I'm a programmer with a Bachelor's and Associate's degree in Computer Science.
@@ -11,10 +11,6 @@
   - Experienced with databases such as MySQL.
   - Familiar with tools and technologies like Docker and Git.
 
-
-
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets&show_icons=true&theme=transparent)
 ## Projects/Portfolio
 ### Personal Website (https://kkhonets.github.io/)
   - Interactive background (https://vincentgarreau.com/particles.js/)
