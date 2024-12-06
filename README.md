@@ -17,7 +17,7 @@
   - Background color subtly changes to a dark pink color using animated gradients with different blend modes
   - Built using React with Babel for interpretation;=
   - Written in HTML/CSS/JS
-<img src="https://github.com/user-attachments/assets/0e5c64cb-b30a-49bb-8a14-0b7c25dbe9e0" width="200rem" height="200rem">
+<img src="https://github.com/user-attachments/assets/0e5c64cb-b30a-49bb-8a14-0b7c25dbe9e0" width="200rem" >
 
 ### Search Component and Algorithm
   - Material styling
