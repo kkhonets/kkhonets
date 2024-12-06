@@ -22,6 +22,7 @@
   - Gets user input, ensuring it's not empty
   - Generates combinations of terms, matches them against article titles and content, and calculates relevance scores
   - Renders a list of articles in order of relevance, with previews showing matched content
+
 ![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
 
 
