@@ -105,7 +105,7 @@ Results
 
 ### Profile Picture Generator
 
-<img src="https://github.com/user-attachments/assets/8f3c8ec6-c16d-4fae-866f-ffabe62eaa9b" width="800rem">
+<img src="https://github.com/user-attachments/assets/8f3c8ec6-c16d-4fae-866f-ffabe62eaa9b" width="600rem">
 
 ### Mock Artist Website
 
