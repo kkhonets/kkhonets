@@ -1,5 +1,8 @@
 # Hi there 👋 I'm kkhonets.
 
+https://github-readme-stats.vercel.app/api?username=kkhonets)](https://github.com/anuraghazra/github-readme-stats
+
+
 ## About Me
 - **Background**: I'm a programmer with a Bachelor's and Associate's degree in Computer Science.
 - **Expertise**:
