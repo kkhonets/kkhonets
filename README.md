@@ -1,7 +1,7 @@
 # Hi there 👋 I'm kkhonets.
 
 ## About Me
-- **Background**: I am a programmer with a Bachelor's and Associate's degree in Computer Science.
+- **Background**: I'm a programmer with a Bachelor's and Associate's degree in Computer Science.
 - **Expertise**:
   - Proficient in Java, Python, PHP, JavaScript, SQL, HTML, Batch Script, and CSS.
   - Experienced in web development using Django, Node.js, React, and Bootstrap.
