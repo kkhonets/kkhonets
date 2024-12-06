@@ -13,7 +13,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets&show_icons=true&theme=transparent)
-
 ## Projects/Portfolio
 ### Personal Website (https://kkhonets.github.io/)
   - Interactive background (https://vincentgarreau.com/particles.js/)
