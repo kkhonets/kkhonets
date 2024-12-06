@@ -27,6 +27,11 @@
 ![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
 ![image](https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9)
 
+### TPC-C Benchmark on Different Cloud Services
+- This was a school project to basically see how fast different cloud services are when using a virtual computer and virtual server through them
+
+![Result Screenshot](https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126)
+
 
 
 
