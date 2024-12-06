@@ -26,15 +26,15 @@
   - Renders a list of articles in order of relevance, with previews showing matched content
   - Written in HTML/CSS/JS/Python using Django
 
-<img src="https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9" width="800rem">
+<img src="https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9" width="200rem">
 <img src="https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9" width="800rem">
 
 ### Caesar Cipher Cryptographic System
 System UML Diagram
 
-<img src="https://github.com/user-attachments/assets/12de9380-d3ee-43e6-a7f9-aa70ba7c9138" width="800rem">
+<img src="https://github.com/user-attachments/assets/12de9380-d3ee-43e6-a7f9-aa70ba7c9138" width="500rem">
 
-<img src="https://github.com/user-attachments/assets/389f3755-d831-4898-b76f-73fee87e23f0" width="800rem">
+<img src="https://github.com/user-attachments/assets/389f3755-d831-4898-b76f-73fee87e23f0" width="300rem">
 
 <img src="https://github.com/user-attachments/assets/871a5042-fd94-4840-a679-c5790628501d" width="800rem">
 
