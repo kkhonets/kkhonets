@@ -29,6 +29,22 @@
 ![Screenshot 2024-12-05 120851](https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9)
 ![image](https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9)
 
+### Mock Learning Management System (Acastat)
+System UML Diagram
+
+![Screenshot 2024-12-06 125212](https://github.com/user-attachments/assets/a3e150e2-267c-45a8-8982-32023d196429)
+
+Screenshots
+
+![Screenshot 2024-05-20 162447](https://github.com/user-attachments/assets/7aad6195-a017-406d-98ab-7e64615f5bb7)
+
+![Screenshot 2024-05-20 162524](https://github.com/user-attachments/assets/73ac25fc-479d-4f04-bf4f-23141c78dbcf)
+
+![Screenshot 2024-05-20 162602](https://github.com/user-attachments/assets/88e19c0e-1dd2-45a7-a252-92fd6c2be86a)
+
+![Screenshot 2024-05-20 162931](https://github.com/user-attachments/assets/6dc98786-477b-44aa-b76b-c3c3d8aad52c)
+
+
 ### TPC-C Benchmark on Different Cloud Services
 - This was a school project to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through the cloud provider using the TPC-C framework
 - Written in PHP/HTML/CSS
@@ -53,6 +69,13 @@ Results
 
 ![Result Screenshot](https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126)
 
+### Profile Picture Generator
+
+![Screenshot 2024-01-16 055642](https://github.com/user-attachments/assets/8f3c8ec6-c16d-4fae-866f-ffabe62eaa9b)
+
+### Mock Artist Website
+
+![Screenshot 2024-01-16 055846](https://github.com/user-attachments/assets/174d3627-a3a2-42bd-b797-fed6e07f8970)
 
 
 
