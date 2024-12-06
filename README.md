@@ -36,9 +36,9 @@ System UML Diagram
 
 <img src="https://github.com/user-attachments/assets/389f3755-d831-4898-b76f-73fee87e23f0" width="300rem">
 
-<img src="https://github.com/user-attachments/assets/871a5042-fd94-4840-a679-c5790628501d" width="400rem">
+<img src="https://github.com/user-attachments/assets/871a5042-fd94-4840-a679-c5790628501d" width="600rem">
 
-<img src="https://github.com/user-attachments/assets/e7ce8c61-a086-46a5-aef9-bb5a345ca5a5" width="800rem">
+<img src="https://github.com/user-attachments/assets/e7ce8c61-a086-46a5-aef9-bb5a345ca5a5" width="300rem">
 
 <img src="https://github.com/user-attachments/assets/67582c80-304c-45ed-a25f-c0e07c5440ea" width="800rem">
 
