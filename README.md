@@ -38,20 +38,20 @@ System UML Diagram
 
 <img src="https://github.com/user-attachments/assets/871a5042-fd94-4840-a679-c5790628501d" width="600rem">
 
-<img src="https://github.com/user-attachments/assets/e7ce8c61-a086-46a5-aef9-bb5a345ca5a5" width="300rem">
+<img src="https://github.com/user-attachments/assets/e7ce8c61-a086-46a5-aef9-bb5a345ca5a5" width="400rem">
 
-<img src="https://github.com/user-attachments/assets/67582c80-304c-45ed-a25f-c0e07c5440ea" width="800rem">
+<img src="https://github.com/user-attachments/assets/67582c80-304c-45ed-a25f-c0e07c5440ea" width="500rem">
 
-<img src="https://github.com/user-attachments/assets/35f9a287-3127-40f9-9e42-f94296d3f674" width="800rem">
+<img src="https://github.com/user-attachments/assets/35f9a287-3127-40f9-9e42-f94296d3f674" width="500rem">
 
 ### Mock Learning Management System (Acastat)
 System UML Diagram
 
-<img src="https://github.com/user-attachments/assets/a3e150e2-267c-45a8-8982-32023d196429" width="400rem">
+<img src="https://github.com/user-attachments/assets/a3e150e2-267c-45a8-8982-32023d196429" width="600rem">
 
 Screenshots
 
-<img src="https://github.com/user-attachments/assets/7aad6195-a017-406d-98ab-7e64615f5bb7" width="800rem">
+<img src="https://github.com/user-attachments/assets/7aad6195-a017-406d-98ab-7e64615f5bb7" width="300rem">
 
 <img src="https://github.com/user-attachments/assets/e75ab410-1061-4f02-8168-f29c4bd70e5c" width="800rem">
 
@@ -59,7 +59,7 @@ Screenshots
 
 <img src="https://github.com/user-attachments/assets/88e19c0e-1dd2-45a7-a252-92fd6c2be86a" width="800rem">
 
-<img src="https://github.com/user-attachments/assets/6dc98786-477b-44aa-b76b-c3c3d8aad52c" width="800rem">
+<img src="https://github.com/user-attachments/assets/6dc98786-477b-44aa-b76b-c3c3d8aad52c" width="600rem">
 
 ### Log App
 
@@ -73,11 +73,11 @@ Screenshots
 
 ### Mock Allowance Management System
 
-<img src="https://github.com/user-attachments/assets/5fe5812a-6acd-4065-ba8f-dc86664ed06e" width="800rem">
+<img src="https://github.com/user-attachments/assets/5fe5812a-6acd-4065-ba8f-dc86664ed06e" width="300rem">
 
-<img src="https://github.com/user-attachments/assets/979590c5-7050-4484-84b9-c9d2ebca3ff8" width="800rem">
+<img src="https://github.com/user-attachments/assets/b131f3da-2ffa-435d-9233-8e6fbaa4bffa" width="350rem">
 
-<img src="https://github.com/user-attachments/assets/b131f3da-2ffa-435d-9233-8e6fbaa4bffa" width="800rem">
+<img src="https://github.com/user-attachments/assets/979590c5-7050-4484-84b9-c9d2ebca3ff8" width="500rem">
 
 ### TPC-C Benchmark on Different Cloud Services
 - This was a school project to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through the cloud provider using the TPC-C framework
