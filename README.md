@@ -34,7 +34,7 @@
 ### Caesar Cipher Cryptographic System
 System UML Diagram
 
-<img src="https://github.com/user-attachments/assets/12de9380-d3ee-43e6-a7f9-aa70ba7c9138" width="500rem">
+<img src="https://github.com/user-attachments/assets/12de9380-d3ee-43e6-a7f9-aa70ba7c9138" width="400rem">
 
 <img src="https://github.com/user-attachments/assets/389f3755-d831-4898-b76f-73fee87e23f0" width="250rem">
 
