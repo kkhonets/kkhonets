@@ -1,6 +1,6 @@
 # Hi there 👋 I'm kkhonets.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets\&show_icons=true&theme=transparent&rank_icon=github\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+<div> ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkhonets\&show_icons=true&theme=transparent&rank_icon=github\&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage) </div>
 
 ## About Me
 - **Background**: I'm a programmer with a Bachelor's and Associate's degree in Computer Science.
