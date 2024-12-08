@@ -103,11 +103,11 @@ MySQL on RDS
 
 Results 
 
-<img src="https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126" width="800rem">
+<img src="https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126" width="700rem">
 
 ### Profile Picture Generator
 
-<img src="https://github.com/user-attachments/assets/8f3c8ec6-c16d-4fae-866f-ffabe62eaa9b" width="600rem">
+<img src="https://github.com/user-attachments/assets/8f3c8ec6-c16d-4fae-866f-ffabe62eaa9b" width="400rem">
 
 ### Mock Artist Website
 
