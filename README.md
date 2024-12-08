@@ -8,8 +8,8 @@
   - Proficient in Java, Python, PHP, JavaScript, SQL, HTML, Batch Script, and CSS.
   - Experienced in web development using Django, Node.js, React, and Bootstrap.
   - Knowledgeable in machine learning algorithms and data analysis using Pandas, scikit-learn, and Jupyter Notebooks.
-  - Familiar with building GUI applications using object oriented programming in Java using Java Swing,
-  - Skilled in cloud platforms like AWS and Google Cloud.
+  - Skilled in building GUI applications using object oriented programming in Java using Java Swing,
+  - Familiar with cloud platforms like AWS and Google Cloud.
   - Experienced with databases such as MySQL.
   - Familiar with tools and technologies like Docker and Git.
 
