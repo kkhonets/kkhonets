@@ -6,7 +6,7 @@
 - **Background**: I'm a programmer with a Bachelor's and Associate's degree in Computer Science.
 - **Expertise**:
   - Proficient in Java, Python, PHP, JavaScript, SQL, HTML, Batch Script, and CSS.
-  - Experienced in web development using Django, Node.js, React, and Bootstrap.
+  - Experienced in web development using Django, Node.js NPM, React, and Bootstrap.
   - Knowledgeable in machine learning algorithms and data analysis using Pandas, scikit-learn, and Jupyter Notebooks.
   - Skilled in building GUI applications using object oriented programming in Java using Java Swing,
   - Familiar with cloud platforms like AWS and Google Cloud.
@@ -32,6 +32,12 @@
 <img src="https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9" width="800rem">
 
 ### Caesar Cipher Cryptographic System
+- This was a school project that I co-developed in my bachelor's degree for a cyber security class
+- I made the front-end and a word to dictionary comparison feature
+- My partner came up with the awesome idea to use binary search algorithm for finding the word in the dictionary
+- The comparison feature determines if decrypted clusters of letters are words, indicating the proper reverse key for the encryprtion
+- Written in Java with the GUI built in Java Swing
+
 System UML Diagram
 
 <img src="https://github.com/user-attachments/assets/12de9380-d3ee-43e6-a7f9-aa70ba7c9138" width="400rem">
@@ -47,6 +53,11 @@ System UML Diagram
 <img src="https://github.com/user-attachments/assets/35f9a287-3127-40f9-9e42-f94296d3f674" width="500rem">
 
 ### Mock Learning Management System (Acastat)
+- This was a web program I co-developed in my bachelor's degree for a software engineering class
+- I hosted the program using a WAMPP (XAMPP on Windows) stack on AWS EC2/RDS with MySQL pointed at the RDS instance
+- I wrote most of the Header, login page, announcements section, create a user page, and announcement creation page
+- Written in CSS, JS, PHP, and HTML utilizing Bootstrap 5
+
 System UML Diagram
 
 <img src="https://github.com/user-attachments/assets/a3e150e2-267c-45a8-8982-32023d196429" width="600rem">
@@ -64,6 +75,10 @@ Screenshots
 <img src="https://github.com/user-attachments/assets/6dc98786-477b-44aa-b76b-c3c3d8aad52c" width="600rem">
 
 ### Log App
+- This was an application I was tasked with expanding
+- I added the progress bars section, information section, transitions between screens, and that tabbed look to the main screen
+- I also added logic so a gold glitter animation would play when all the progress bars are filled
+- Written in/created with PowerApps/SharePoint
 
 - Built in Microsoft Power Apps
 
@@ -82,7 +97,8 @@ Screenshots
 <img src="https://github.com/user-attachments/assets/979590c5-7050-4484-84b9-c9d2ebca3ff8" width="500rem">
 
 ### TPC-C Benchmark on Different Cloud Services
-- This was a school project to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through the cloud provider using the TPC-C framework
+- This was a school project in my bachelor's degree to basically see how fast different cloud services are when hosting a website using a virtual computer and virtual server through a cloud provider using the TPC-C framework
+- I tested AWS and Google Cloud to see how fast their partitioned computer instances could retrieve data from their server instances
 - Written in PHP/HTML/CSS
 
 AWS EC2 Instance
@@ -106,10 +122,14 @@ Results
 <img src="https://github.com/user-attachments/assets/166ec7ec-94b9-4655-9e29-1ae6fe41b126" width="700rem">
 
 ### Profile Picture Generator
+- I wrote a symmetrical profile picture generator in the theme of the GitHub initial profile pictures
+- Written in python
 
 <img src="https://github.com/user-attachments/assets/8f3c8ec6-c16d-4fae-866f-ffabe62eaa9b" width="500rem">
 
 ### Mock Artist Website
+- I made a sample website for an artist I met that I hosted on AWS
+- Written in CSS/HTML utilizing Bootstrap 5
 
 <img src="https://github.com/user-attachments/assets/174d3627-a3a2-42bd-b797-fed6e07f8970" width="800rem">
 
