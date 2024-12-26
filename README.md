@@ -21,16 +21,6 @@
   - Written in HTML/CSS/JS
 <img src="https://github.com/user-attachments/assets/0e5c64cb-b30a-49bb-8a14-0b7c25dbe9e0" width="800rem">
 
-### Search Component and Algorithm
-  - Material styling
-  - Gets user input, ensuring it's not empty
-  - Generates combinations of terms, matches them against article titles and content, and calculates relevance scores
-  - Renders a list of articles in order of relevance, with previews showing matched content
-  - Written in HTML/CSS/JS/Python using Django
-
-<img src="https://github.com/user-attachments/assets/f6ba5c19-3f6b-4559-bec5-8bcc162ccaa9" width="200rem">
-<img src="https://github.com/user-attachments/assets/5dfab609-cab4-47d6-ab51-67c4f68d69e9" width="800rem">
-
 ### Caesar Cipher Cryptographic System
 - This was a school project that I co-developed in my bachelor's degree for a cyber security class
 - I made the front-end and a word to dictionary comparison feature
